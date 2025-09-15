@@ -1,6 +1,6 @@
 #Environment
 
-Individual build components may list different versions of Ubuntu for compilation in their respective readme / build instruction files, however, all modules herein were compiled successfully in Ubuntu 22.04
+Individual build components may list different versions of Ubuntu for compilation in their respective readme / build instruction files, however, all modules here in were compiled successfully in Ubuntu 22.04
 
 
 Zip: sudo apt-get install zip unzip
@@ -10,7 +10,7 @@ Zip: sudo apt-get install zip unzip
 Each module contains its own readme or build instruction file ,follow each set of instructions individually according to the build order below
 
 Build order:
- a. release-5583-20230726-apollo-lite 
+ a. release-5583-5691-5695-5695s-20240624
  b. btsound-release-legal-5583 
  c. ffmpg 
  d. release-FUR5.1.1-31X_GPL
